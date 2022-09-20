@@ -10,3 +10,5 @@ dibuat tahun 1995 oleh Brendan Eich, programmer dari Netscape. JavaScript tidak 
 >Semangat Fula Belajarnya <3
 
 ## Fundamental JavaScript
+  - Expression merupakan kode yang menghasilkan nilai.
+  - Statement menunjukkan aksi yang dilakukan.
